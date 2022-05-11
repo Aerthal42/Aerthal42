@@ -1,1 +1,1 @@
-https://redirect.appmetrica.yandex.com/groceries?c={{campaign_name}}&gender={{gender}}&click_id={clickid}&google_aid_sha1={sha1_gaid}&banner_id={{banner_id}}&c_id={{campaign_id}}&age={{age}}
+https://1389598.redirect.appmetrica.yandex.com/groceries?c={{campaign_name}}&appmetrica_tracking_id=1034861278922850196&search_term={keyword}&device_type={device_type}&region_name={region_name}&source_type={source_type}&phrase_id={phrase_id}&source={source}&position_type={position_type}&campaign_id={campaign_id}&click_id={logid}&google_aid_sha1={sha1_gaid}
