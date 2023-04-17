@@ -1,1 +1,1 @@
-https://redirect.appmetrica.yandex.com/serve/676732958731721277?click_id={clickid}&pid=mail.ru_int&gender={{gender}}&age={{age}}&c={{campaign_id}}&banner_id={{banner_id}}
+https://app.appsflyer.com/com.ninering.rocen.an?pid=mail.ru_int&c={{campaign_name}}&af_c_id={{campaign_id}}&af_adset_id={{banner_id}}&af_click_lookback=7d&clickid={clickid}&sha1_idfa={sha1_idfa}&sub1=&sub2={{gender}}&sub3={{age}}&af_prt=Rocket10
